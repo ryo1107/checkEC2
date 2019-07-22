@@ -13,7 +13,7 @@ $ python checkEC2.py profile InstanceId (resion_name)
 # output
 
 | 項目                   | 結果                  |
-|========================|=======================|
+|------------------------|-----------------------|
 | CPUバースト            | OK-Disable            |
 | CloudWatchアラート     |  None                 |
 | セキュリティーグループ |  NG                   |
