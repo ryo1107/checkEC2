@@ -4,6 +4,13 @@
 $ pip install tabulate boto3
 ```
 
+# need
+
+```
+~/.aws/config
+~/.aws/credentials
+```
+
 # run
 
 ```
